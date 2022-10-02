@@ -1,0 +1,13 @@
+{
+  "name": "links-chewhx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Chew Han Xiang",
+  "license": "MIT",
+  "scripts": {
+    "watch-sass": "sass --watch --no-source-map src/index.scss:src/index.css"
+  },
+  "devDependencies": {
+    "sass": "^1.55.0"
+  }
+}
