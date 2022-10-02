@@ -4,7 +4,8 @@
   "author": "Chew Han Xiang",
   "license": "MIT",
   "scripts": {
-    "watch-sass": "sass --watch --no-source-map src/index.scss:src/index.css"
+    "watch-sass": "sass --watch --no-source-map index.scss:index.css",
+    "build-sass": "sass --no-source-map  index.scss:index.css"
   },
   "devDependencies": {
     "sass": "^1.55.0"
