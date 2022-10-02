@@ -1,7 +1,6 @@
 {
   "name": "links-chewhx",
   "version": "1.0.0",
-  "main": "index.js",
   "author": "Chew Han Xiang",
   "license": "MIT",
   "scripts": {
